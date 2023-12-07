@@ -21,7 +21,7 @@
     "useDefineForClassFields": false,
     "paths": {
       "test": [
-        "./dist/test/public-api"
+        "./dist/test"
       ]
     },
     "lib": [
